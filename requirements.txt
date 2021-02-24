@@ -1,2 +1,2 @@
 pyttsx3
-essential_generators
+requests
